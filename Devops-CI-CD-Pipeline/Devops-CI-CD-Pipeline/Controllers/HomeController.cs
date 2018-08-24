@@ -6,6 +6,9 @@ using System.Web.Mvc;
 
 namespace Devops_CI_CD_Pipeline.Controllers
 {
+    /// <summary>
+    /// adding comments
+    /// </summary>
     public class HomeController : Controller
     {
         public ActionResult Index()
